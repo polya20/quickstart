@@ -281,7 +281,7 @@ She worked at Pied Piper for years until they went belly up."""
     # as an example the mailout plugin from caddy.
     # Provide the post URL for the form and depending on the provider
     # add some custom JS script to finish the implementation.
-    postURL = "https://formspree.io"
+    postURL = "https://formspree.io/"
 
     email = "hello@abundanceai.com"
 
